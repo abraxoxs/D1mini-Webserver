@@ -1,0 +1,6 @@
+# Wemos D1 Mini - Webserver
+
+This is a simple webserver for the Wemos D1 Mini. 
+It uses the ESP8266WiFi library to connect to a WiFi network and the ESP8266WebServer library to serve a webpage.
+
+
